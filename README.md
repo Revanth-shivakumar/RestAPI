@@ -23,13 +23,13 @@ This is a simple FastAPI application that allows users to create, read, update, 
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/yourusername/fastapi-notes.git
+    git clone https://github.com/revanth-shivakumar/RestAPI.git
     ```
 
 2. Navigate to the project folder:
 
     ```bash
-    cd fastapi-notes
+    cd RestAPI
     ```
 
 3. Create a virtual environment:
